@@ -11,7 +11,7 @@
         </groups>
 
         <classes>
-            <class name="com.yaswanth.tests.Sample.TestingSample">
+            <class name="com.yaswanth.tests.integration.TestIntegrationFlow">
 
             </class>
         </classes>
